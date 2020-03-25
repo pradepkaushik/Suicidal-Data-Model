@@ -165,16 +165,3 @@ for n in range(1,50,2):
 sns.lineplot(x = range(1,50,2), y = accuracies)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
